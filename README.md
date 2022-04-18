@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBtxt (Brandon)
 - 👀 I’m interested in photography, technology and art. 
-- 🌱 I’m currently learning Docker, python, and K8
+- 🌱 I’m currently learning python, JS, Linux, docker , and k8 
 - 💞️ I’m looking to collaborate on whatever..
 
 <!--- 
