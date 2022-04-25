@@ -12,7 +12,7 @@ I am a crane engineer at the Port of Los Angeles studying to become a software e
 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 <!--- 
 BBtxt/BBtxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
