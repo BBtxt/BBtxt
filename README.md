@@ -6,7 +6,7 @@ Just an engineer messing with stuff...
 - ⛴ I have degree in maritime engineering and I've almost circumnavigated the world as an Engineering Officer.
 - 🔧 I've worked on gas turbine and diesel ships, made port cranes taller, and kept ice cold at a hockey arena. 
 - 🌱 I'm eager to learn all aspects of frontend and backend technologies. 
-- 👨🏿‍💻 I'm currently learning <s>GO<s> I mean TS lol
+- 👨🏿‍💻 I'm currently learning <s>GO</s> I mean TS lol
 - Need to finish multiple projects 
 
 <!--- 
