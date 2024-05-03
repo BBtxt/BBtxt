@@ -1,7 +1,7 @@
 # Hello World, I'm Brandon 👋🏿
 
 Just an engineer messing with stuff...
-
+<!--- 
 **A bit about me** 
 - ⛴ I have degree in maritime engineering and I've almost circumnavigated the world as an Engineering Officer.
 - 🔧 I've worked on gas turbine and diesel ships, made port cranes taller, and kept ice cold at NHL hockey arena. 
